@@ -1,8 +1,9 @@
 # Knowledge Transfer and Forgetting Prevention for Regional-Collaborative Evolutionary Credit Card Fraud Detection (RECE-FD)
 
-## Getting Started
+##Introduction
+**code coming soon!**
 
-### Installation
+## Getting Started
 
 Install dependencies by
 
@@ -10,9 +11,15 @@ Install dependencies by
 pip install -r requirements.txt
 ```
 
-## Run Experiments
+## Reproducing results from the paper
 
 You can use `python main.py` to run experiment on
 our preprocessed data.
 
+##File structure
 
+- `processData.ipynb`:
+- `RECE/data`:
+- `RECE/main.py`:
+- `model.py`:
+- `utils.py`:
