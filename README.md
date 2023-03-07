@@ -22,5 +22,5 @@ our preprocessed data.
 - `processData.ipynb`:
 - `RECE/data`:
 - `RECE/main.py`:
-- `model.py`:
-- `utils.py`:
+- `RECE/model.py`:
+- `RECE/utils.py`:
