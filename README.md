@@ -1,4 +1,4 @@
-# Knowledge Transfer and Forgetting Prevention for Regional-Collaborative Evolutionary Credit Card Fraud Detection
+# Knowledge Transfer and Forgetting Prevention for Regional-Collaborative Evolutionary Credit Card Fraud Detection (RECE-FD)
 
 ## Getting Started
 
